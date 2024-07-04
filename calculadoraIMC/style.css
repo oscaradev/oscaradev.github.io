@@ -1,0 +1,27 @@
+#principal {
+    width: 200px;
+    border: red 2px solid;
+    background-color: firebrick;
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto;
+}
+
+.contenido {
+    margin: 5px;
+    text-align: center;
+}
+
+input {
+    padding: 5px;
+}
+
+.contenedor_calc {
+    /*  display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+*/
+}
